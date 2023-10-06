@@ -1,0 +1,624 @@
+@media screen and (max-width:1260px) {
+.navbar {
+   width: 1100px;
+   padding: 0 0 0 30px;
+}
+.info-1 {
+   width: 50px;
+}
+.info {
+   flex-direction: column;
+}
+.info-icon {
+   width: 25px;
+}
+.header {
+   width: 1130px;
+   padding: 0 0 0 30px;
+}
+.header-image {
+   display: none;
+}
+.head-hover {
+   display: none;
+}
+.header-left p h1{
+   width: 443px;
+   height: 500px;
+}
+.share-link {
+   width: 100px;
+}
+.empty {
+   width: 530px;
+}
+.cards {
+   gap: 5px;
+   width: 1100px;
+   padding-left: 40px;
+}
+.card-res {
+ width: 350px;
+}
+.size {
+   width: 380px;
+}
+.stories {
+   padding-left: 30px;
+}
+.story-list {
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: 500px;
+}
+.story-hover {
+   width: 350px;
+}
+.aside {
+    display: none;
+}
+ .cardimg {
+    display: none;
+    flex-direction: column;
+ }   
+ .sheet-res {
+    width: 600px;
+    height: 220px;
+}
+.content {
+   font-size: 17px;
+}
+.tsaash-btn {
+   width: 1100px;
+}
+.bottom-res {
+   width: 575px;
+}
+.bottom-cards {
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: 810px;
+   width: 1100px;
+}
+.bottom-card {
+   width: 500px;
+}
+.yt-cards {
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: 1620px;
+}
+.speaking {
+   display: none;
+}
+.res-img {
+     width: 584px;
+}
+.hev-mayg {
+      display: none;
+}
+.technology {
+      display: none;
+}
+.comic {
+   width: 1160px;
+   padding-left: 25px;
+}
+.bottom-big2 {
+   width: 440px;
+   gap: 10px;
+}
+.bottom-bigger-card {
+   width: 550px;
+}
+.youtube-background {
+   width: 1180px;
+}
+.yt-card {
+   width: 550px;
+   height: 350px;
+}
+.yt-background {
+   width: 560px;
+}
+.footer-top {
+   width: 1000px;
+   padding-left: 30px;
+}
+.footer-bottom {
+   width: 800px;
+   padding-left: 70px;
+}
+.footer-links {
+   flex-wrap: wrap;
+   width: 800px;
+}
+.long-news-right {
+   border-right: none;
+   padding-left: 30px;
+   width: 1100px;
+   padding: 0 0 0 40px;
+}
+}
+@media screen and (max-width:1100px) {
+.section {
+   width: 100%;
+}
+.navbar {
+   width: 1100px;
+   padding: 0 0 0 50px;
+   justify-content: flex-start;
+   gap: 50px;
+} 
+.nav--btn {
+   display: none;
+}
+.info-1 {
+   width: 50px;
+}
+.info {
+   flex-direction: row;
+}
+.info-icon {
+   width: 25px;
+}
+.header {
+   width: 1050px;
+   padding: 0 0 0 40px;
+}
+.header-image {
+   display: none;
+}
+.head-hover {
+   display: none;
+}
+.header-left {
+   width: 500px;
+   padding: 30px 0 30px 30px;
+}
+.empty {
+   width: 485px;
+   height: 360px;
+}
+.cards {
+   gap: 5px;
+   width: 1050px;
+   padding-left: 40px;
+   }
+.card-res {
+   width: 340px;
+}
+.size {
+   width: 380px;
+}
+.stories {
+   display: none;
+}
+.aside {
+   display: none;
+}
+.cardimg {
+   display: none;
+   flex-direction: column;
+}   
+.sheet-res {
+   width: 500px;
+   height: 220px;
+}
+.content {
+   font-size: 17px;
+}
+.tsaash-btn {
+   width: 1050px;
+}
+.bottom-res {
+   width: 575px;
+}
+.bottom-cards {
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: 810px;
+   width: 1100px;
+}
+.bottom-card {
+   width: 480px;
+}
+.yt-cards {
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: 1620px;
+}
+.speaking {
+   display: none;
+}
+.res-img {
+   width: 584px;
+}
+.hev-mayg {
+   padding: 0 0 0 50px;
+}
+.technology {
+   padding-left: 50px;
+   width: 1050px;
+}
+.comic {
+   width: 1050px;
+   padding-left: 50px;
+}
+.bottom-big2 {
+   width: 440px;
+   gap: 10px;
+}
+.bottom-bigger-card {
+   width: 500px;
+}
+.yt-main {
+   padding: 0 0 0 50px;
+   width: 1050px;
+}
+.youtube-background {
+   width: 1100px;
+}
+.yt-card {
+   width: 450px;
+   height: 350px;
+}
+.yt-background {
+   width: 450px;
+}
+.footer {
+   width: 100%;
+}
+.footer-top {
+   width: 1000px;
+   padding-left: 30px;
+}
+.footer-bottom {
+   width: 800px;
+   padding-left: 70px;
+}
+.footer-links {
+   flex-wrap: wrap;
+   width: 800px;
+}
+.long-news-right {
+   border-right: none;
+   padding-left: 30px;
+   width: 1100px;
+   padding: 0 0 0 40px;
+}
+}
+@media screen and (max-width:800px) {
+   .section {
+      width: 650px;
+   }
+   .upper {
+      padding: 0 0 0 50px;
+   }
+   .navbar {
+      width: 500px;
+      padding: 0 0 0 50px;
+      justify-content: flex-start;
+      gap: 80px;
+   } 
+   .nav--btn {
+      display: none;
+   }
+   .info-1 {
+      width: 50px;
+   }
+   .info {
+      flex-direction: row;
+   }
+   .info-icon {
+      width: 25px;
+   }
+   .header {
+      width: 500px;
+      padding: 0 0 0 40px;
+   }
+   .header-image {
+      display: none;
+   }
+   .head-hover {
+      display: none;
+   }
+   .header-left {
+      width: 550px;
+      padding: 30px 0 30px 30px;
+   }
+   .empty {
+      display: none;
+   }
+   .cards {
+      display: none;
+      }
+   .stories {
+      display: none;
+   }
+   .aside {
+      display: none;
+   }
+   .cardimg {
+      display: none;
+      flex-direction: column;
+   }   
+   .day-pickers p{
+      gap: 5px;
+      justify-content: flex-start;
+   }
+   .days {
+      width: 60px;
+   }
+   .blue-btn {
+      width: 85px;
+   }
+   .news-bottom {
+      width: 700px;
+   }
+   .sheet-res {
+      width: 300px;
+      height: 220px;
+   }
+   .content {
+      font-size: 14px;
+      width: 300px;
+   }
+   .tsaash-btn {
+      width: 640px;
+   }
+   .bottom-res {
+      width: 575px;
+   }
+   .bottom-cards {
+      flex-wrap: wrap;
+      flex-direction: column;
+      height: 810px;
+      width: 800px;
+   }
+   .bottom-card {
+      width: 450px;
+   }
+   .speaking {
+      display: none;
+   }
+   .res-img {
+      width: 584px;
+   }
+   .hev-mayg {
+      padding: 0 0 0 50px;
+   }
+   .technology {
+      padding-left: 50px;
+      width: 1050px;
+   }
+   .comic {
+      display: none;
+   }
+   .bottom-big2 {
+      width: 440px;
+      gap: 10px;
+   }
+   .bottom-bigger-card {
+      width: 500px;
+   }
+   .youtube {
+      width: 650px;
+   }
+   .yt-cards {
+      height: 3000px;
+      width: 600px;
+      flex-direction: column;
+   }
+   .yt-main {
+      padding: 0 0 0 50px;
+      width: 650px;
+   }
+   .youtube-background {
+      width: 700px;
+   }
+   .yt-card {
+      width: 550px;
+      height: 350px;
+   }
+   .yt-background {
+      width: 550px;
+   }
+   .footer {
+      width: 100%;
+   }
+   .footer-top {
+      width: 650px;
+      padding-left: 30px;
+   }
+   .footer-bottom {
+      width: 600px;
+      flex-direction: column;
+   }
+   .footer-links {
+      flex-wrap: wrap;
+      width: 400px;
+      flex-direction: column;
+   }
+   .long-news-right {
+      border-right: none;
+      padding-left: 30px;
+      width: 1100px;
+      padding: 0 0 0 40px;
+   }
+}
+@media screen and (max-width:480px) {
+   .section {
+      width: 460px;
+   }
+   .upper {
+      padding: 0 0 0 0;
+   }
+   .navbar {
+      width: 400px;
+      padding: 0 0 0 20px;
+      justify-content: flex-start;
+      gap: 10px;
+   } 
+   .nav--btn {
+      display: none;
+   }
+   .info-1 {
+      width: 50px;
+   }
+   .info {
+      flex-direction: row;
+   }
+   .info-icon {
+      width: 25px;
+   }
+   .header {
+      width: 480px;
+      height: 400px;
+      padding: 0 0 0 0;
+   }
+   .head-informations {
+      width: 470px;
+      height: 430px;
+   }
+   .header-image {
+      display: none;
+   }
+   .head-hover {
+      display: none;
+   }
+   .header-left {
+      width: 430px;
+      height: 350px;
+      padding: 25px 0 25px 25px;
+   }
+   .empty {
+      display: none;
+   }
+   .cards {
+      display: none;
+      }
+   .stories {
+      display: none;
+   }
+   .aside {
+      display: none;
+   }
+   .cardimg {
+      display: none;
+      flex-direction: column;
+   }  
+   .title-today {
+      display: none;
+   } 
+   .day-pickers p{
+      display: none;
+   }
+   .days {
+      display: none;
+   }
+   .blue-btn {
+      width: 85px;
+   }
+   .news-bottom {
+      width: 400px;
+   }
+   .sheets {
+      flex-direction: column;
+      height: 450px;
+   }
+   .sheet-res {
+      width: 300px;
+      height: 220px;
+   }
+   .content {
+      font-size: 12px;
+      width: 250px;
+      padding-left: 50px;
+   }
+   .tsaash-btn {
+      width: 370px;
+   }
+   .bottom-res {
+      width: 575px;
+   }
+   .bottom-cards {
+      flex-wrap: wrap;
+      flex-direction: column;
+      height: 810px;
+      width: 800px;
+   }
+   .bottom-card {
+      width: 450px;
+   }
+   .speaking {
+      display: none;
+   }
+   .res-img {
+      width: 584px;
+   }
+   .hev-mayg {
+      padding: 0 0 0 25px;
+   }
+   .technology {
+      padding-left: 25px;
+      width: 1050px;
+   }
+   .comic {
+      display: none;
+   }
+   .bottom-big2 {
+      width: 440px;
+      gap: 10px;
+   }
+   .bottom-bigger-card {
+      width: 500px;
+   }
+   .youtube {
+      width: 400px;
+   }
+   .yt-cards {
+      height: 3000px;
+      width: 360px;
+      flex-direction: column;
+   }
+   .yt-main {
+      padding: 0 0 0 50px;
+      width: 400px;
+   }
+   .youtube-background {
+      width: 460px;
+   }
+   .yt-card {
+      width: 360px;
+      height: 350px;
+   }
+   .yt-background {
+      width: 350px;
+   }
+   .footer {
+      width: 100%;
+   }
+   .footer-top {
+      width: 300px;
+      padding-left: 30px;
+      flex-direction: column;
+      text-align: center;
+   }
+   .footer-bottom {
+      justify-content: center;
+      width: 300px;
+      flex-direction: column;
+   }
+   .footer-links {
+      flex-wrap: wrap;
+      width: 250px;
+      flex-direction: column;
+   }
+   .long-news-right {
+      border-right: none;
+      padding-left: 30px;
+      width: 400px;
+      padding: 0 0 40px 40px;
+   }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    div {
+      width: 130px;
+      height: 130px;
+      overflow: hidden;
+      position: relative;
+    }
+    div:hover > img {
+      transform: scale(1.2);
+    }
+    div:hover > .bg-none {
+      opacity: 1;
+    }
+
+    .bg-none{
+      background-color: rgba(0, 0, 0, 0.3);
+      width: 130px;
+      height: 130px;
+      position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: red;
+      top: 0;
+      left: 0;
+      opacity: 0;
+    }
+
+  </style>
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkrTO1qB5t_2ZpncRbvpyGOndQXyZ_x1BiNqnnquocQ&s" alt="">
+    <div class="bg-none">
+      test
+    </div>
+  </div>
+</body>
+</html>
